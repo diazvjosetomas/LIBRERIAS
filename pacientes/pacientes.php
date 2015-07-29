@@ -24,7 +24,7 @@ $N_Torre       = $_SESSION['Nombre_Torre'];
 		<div class="panel panel-default" style="box-shadow:2px 2px 5px;margin:0 auto;width:100%;">
 
 			<div class="panel-heading" style="text-align: center;font-size: 25px;padding: 20px;">Registro de Inquilinos <div id="registroTorres"><strong style="color:green;">
-				<i class="fa fa-check-square-o"></i></strong>&nbsp;<u><i>.::<?=$N_Condominio ?></i></u> / <u><i> Torre<?=$N_Torre?>::.</i></u></div></div>
+				<i class="fa fa-check-square-o"></i></strong>&nbsp;<u><i>.::<?=$N_Condominio ?></i></u> / <u><i> Torre <?=$N_Torre?>::.</i></u></div></div>
 
 			<div class="panel-body">
 
